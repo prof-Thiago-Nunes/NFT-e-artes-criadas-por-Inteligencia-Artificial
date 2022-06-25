@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="Banner oficial.png" >
+  <img src="NFT E INTELIGÊNCIA ARTIFICIAL.png" >
 </p>
 
 # Thiago Nunes
